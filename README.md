@@ -1,2 +1,2 @@
-# JunyuKe_FinalMVP
-A equity crowding platform
+# IDEA
+ MVP for the crowdfunding platform
